@@ -1,0 +1,76 @@
+{
+  "player": [
+    {
+      "id": "10",
+      "playername": "Rohit",
+      "age": "21",
+      "psprt": "Cricket",
+      "year": "10-11-2024",
+      "month": "7",
+      "fees": "7000"
+    },
+    {
+      "id": "11",
+      "playername": "Virat",
+      "age": "22",
+      "psprt": "Cricket",
+      "year": "23-07-2024",
+      "month": "6",
+      "fees": "5000"
+    },
+    {
+      "id": "66",
+      "playername": "Sachin",
+      "age": "33",
+      "psprt": "Football",
+      "year": "23-08-2023",
+      "month": "3",
+      "fees": "3000"
+    },
+    {
+      "id": "16",
+      "playername": "Ram",
+      "age": "23",
+      "psprt": "Hockey",
+      "year": "23-08-2024",
+      "month": "9",
+      "fees": "9000"
+    },
+    {
+      "id": "17",
+      "playername": "Vishal",
+      "age": "21",
+      "psprt": "Cricket",
+      "year": "10-11-2024",
+      "month": "12",
+      "fees": "10000"
+    },
+    {
+      "id": "7",
+      "playername": "Pawan",
+      "age": "22",
+      "psprt": "Tennis",
+      "year": "11-10-2024",
+      "month": "2",
+      "fees": "2000"
+    },
+    {
+      "id": "499",
+      "playername": "Ravi",
+      "age": "21",
+      "psprt": "Cricket",
+      "year": "10-10-2024",
+      "month": "7",
+      "fees": "7000"
+    },
+    {
+      "id": "68",
+      "playername": "Amit",
+      "age": "22",
+      "psprt": "Tennis",
+      "year": "13-11-2024",
+      "month": "3",
+      "fees": "3000"
+    }
+  ]
+}

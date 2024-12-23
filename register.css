@@ -1,0 +1,74 @@
+
+body {
+    font-family:sans-serif;
+    background: url(images/background.jpeg);
+}
+
+.register {
+    width: 400px;
+    margin: 70px auto;
+    margin-top: 8%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: transparent;
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    width: 45%;
+    height: 30%;
+    background-color: #8e3e81;
+    align-items: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#username,#password,#confirm-password{
+    width: 95%;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #3e778e;
+    color:wheat;
+    font-size: 25px;
+    text-align: center;
+}
+
+#submit {
+    width: 100%;
+    height: 40px;
+    background-color: #4c5eaf;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#submit:hover {
+    background-color: #8e3e81;
+   
+}
+
+#error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.register button#login {
+    background-color: #6c33b7;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
